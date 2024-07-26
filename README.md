@@ -5,5 +5,6 @@ It can detect edges in an image and display both the original and processed imag
 
 Here's an example of me taking one and running it successfully
 
-[OIP](https://github.com/user-attachments/assets/5c9dbd5c-3811-4760-aa76-269ee167729d)
+![ebaabc0e0b2b138636eb429260583c0](https://github.com/user-attachments/assets/8ff75e22-4ee7-4c0b-9915-e89a1e51157d)
+
 
